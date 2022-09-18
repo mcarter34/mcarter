@@ -1,0 +1,5 @@
+nums=list(range(30,65,5))
+print(list(reversed(nums)))
+nums.append(65)
+print(nums)
+print(list(reversed(nums)))
